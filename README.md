@@ -9,7 +9,7 @@
 <h3 align="center">  I'm Computer Security Professional </h3>
 
 <h3 align="center">  My Interest lies in: </h3>
- <ul>
+ <ul align="center">
   <li> Machine Learning & Deep Learning</li>
   <li>Generative Modeling</li>
   <li>CyberSecurity</li>
