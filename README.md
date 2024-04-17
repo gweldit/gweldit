@@ -10,9 +10,9 @@
 
 <h3 align="center">  My Interest lies in: </h3>
  <ul align="center">
-  <li> Machine Learning & Deep Learning</li>
-  <li>Generative Modeling</li>
-  <li>CyberSecurity</li>
+  <li align="center"> Machine Learning & Deep Learning</li>
+  <li align="center">Generative Modeling</li>
+  <li align="center">CyberSecurity</li>
 </ul>  
 
 
