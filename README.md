@@ -9,7 +9,7 @@
 <h3 align="center">  I'm Computer Security Professional </h3>
 
 
-<h4 align="center"> My interests lie in AI (i.e., ML & DL) and Cyber Security</h4>
+<h4 align="center"> My interests are centered on (i.e., ML & DL) and Cyber Security</h4>
   
 
 
