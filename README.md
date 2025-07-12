@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gweldit.gweldit"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋! I'm Ghebrebrhan Weldit;" />
 </h1>
 
-<h3 align="center">ML Researcher with experience focused in cybersecurity </h3>
+<h3 align="center">Research Associate at [C2PS](https://www.ku.ac.ae/c2ps) Lab </h3>
 
 <h4 align="center">
   I design and apply deep learning and generative models to real-world challenges in malware detection and anomaly detection.
@@ -23,7 +23,7 @@
 ### 📌 Selected Projects & Publications
 - 🧾 [First-author IEEE TAI paper on Generative Models for Malware Behavior](https://doi.org/10.1109/TAI.2025.3537966)
 - 🛡️ GANs for heavy-tailed malware generation — presented at SecureComm 2024  
-- 🧬 YOLOv7-based parasitic egg detection (mAP 98.5%, mF1 95.8%)  
+- 🧬 YOLOv7-based parasitic egg detection (mAP 98.5%, mF1 95.8%)  done in collabortion with Murad (
 
 
 <!--
