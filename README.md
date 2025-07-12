@@ -424,7 +424,7 @@
                 <div class="work-text">
                     <strong>Fun fact:</strong> I've built detection systems for both cyber threats and parasitic eggs — same precision, different                             domains!
                 </div>
-            <!--
+            -->
             </div>
         </div>
     </div>
