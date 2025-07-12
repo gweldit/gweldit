@@ -37,12 +37,13 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on generative models (GANs, Transformers) for malware behavior generation and  polymorphic malware detection  
-- 🌱 I’m currently learning advanced sequence modeling and causal reward optimization for GANs  
+- 🌱 I’m currently learning advanced sequence modeling and causal reward optimization for GANs
+<!--  
 - 👯 I’m looking to collaborate on ML applications in cybersecurity and NLP
 - 🤔 I’m looking for help with benchmarking GANs in security tasks and multilingual NLP datasets  
 - 💬 Ask me about machine learning for malware, data exfiltration detection, or YOLO-based CV projects  
 - 📫 How to reach me: gereweldit@gmail.com or [gweldit.github.io](https://gweldit.github.io)  
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I’ve built detection systems for both cyber threats and parasitic eggs — same precision, different domains!
-
+-->
 
