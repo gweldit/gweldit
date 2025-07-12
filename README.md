@@ -1,13 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gweldit.gweldit"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gere!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋!;" />
 </h1>
 
-<h3 align="center">Cybersecurity-Focused ML Researcher</h3>
+<h3 align="center">ML Researcher with experience focused in cybersecurity </h3>
 
 <h4 align="center">
-  I design and apply deep learning and generative models to real-world challenges in malware detection, anomaly detection, and low-resource settings in computer vision and NLP.
+  I design and apply deep learning and generative models to real-world challenges in malware detection and anomaly detection.
 </h4>
 
 ---
