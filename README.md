@@ -1,31 +1,44 @@
-
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gweldit.gweldit"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gere!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gere!;" />
 </h1>
 
-<h3 align="center">  I'm Computer Security Professional </h3>
+<h3 align="center">Cybersecurity-Focused ML Researcher</h3>
 
+<h4 align="center">
+  I design and apply deep learning and generative models to real-world challenges in malware detection, anomaly detection, and low-resource settings in computer vision and NLP.
+</h4>
 
-<h4 align="center"> My interests are centered on (i.e., ML & DL) and Cyber Security</h4>
-  
+---
 
+🎓 **Current Role**: Research Associate at Khalifa University  
+🧠 **Expertise**: GANs, Transformers, Causal Learning, Sequence Modeling  
+📍 **Applications**: Malware behavior modeling, biometric authentication, African language processing  
+📄 **Portfolio**: [gweldit.github.io](https://gweldit.github.io)  
+📫 **Email**: gereweldit@gmail.com  
 
-<br/>
+---
+
+### 📌 Selected Projects & Publications
+- 🧾 [First-author IEEE TAI paper on Generative Models for Malware Behavior](https://doi.org/10.1109/TAI.2025.3537966)
+- 🛡️ GANs for heavy-tailed malware generation — presented at SecureComm 2024  
+- 🧬 YOLOv7-based parasitic egg detection (mAP 98.5%, mF1 95.8%)  
+
 
 <!--
-**gweldit/gweldit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gweldit/gweldit** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on generative models (GANs, Transformers) for malware behavior generation and  polymorphic malware detection  
+- 🌱 I’m currently learning advanced sequence modeling and causal reward optimization for GANs  
+- 👯 I’m looking to collaborate on ML applications in cybersecurity and NLP
+- 🤔 I’m looking for help with benchmarking GANs in security tasks and multilingual NLP datasets  
+- 💬 Ask me about machine learning for malware, data exfiltration detection, or YOLO-based CV projects  
+- 📫 How to reach me: gereweldit@gmail.com or [gweldit.github.io](https://gweldit.github.io)  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I’ve built detection systems for both cyber threats and parasitic eggs — same precision, different domains!
+
+
