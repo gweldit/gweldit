@@ -27,7 +27,7 @@
 ### 📌 Selected Projects & Publications
 - 🧾 [First-author IEEE TAI paper on Generative Models for Malware Behavior](https://doi.org/10.1109/TAI.2025.3537966)
 - 🛡️ GANs for heavy-tailed malware generation — presented at SecureComm 2024  
-- 🧬 YOLOv7-based parasitic egg detection (mAP 98.5%, mF1 95.8%)  done in collabortion with Murad (
+- 🧬 YOLOv7-based parasitic egg detection (mAP 98.5%, mF1 95.8%)  done in collabortion with [Murad] (https://github.com/Murdism)
 
 
 <!--
