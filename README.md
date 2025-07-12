@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋! I'm Ghebrebrhan Weldit;" />
 </h1>
 
-<h3 align="center">Research Associate at [C2PS](https://www.ku.ac.ae/c2ps) Lab </h3>
+<h3 align="center">Research Associate at [C2PS] (https://www.ku.ac.ae/c2ps) Lab </h3>
 
 <h4 align="center">
   I design and apply deep learning and generative models to real-world challenges in malware detection and anomaly detection.
