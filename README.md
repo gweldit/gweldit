@@ -1,12 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gweldit.gweldit" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gere!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ghebrebrhan Weldit!;" />
 </h1>
 
 <div align="center">
-
-# Hi There! 👋 I'm Ghebrebrhan Weldit
 
 ### Research Associate at [C2PS Lab](https://www.ku.ac.ae/c2ps)
 
