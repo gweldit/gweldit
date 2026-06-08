@@ -27,12 +27,11 @@ I design and apply deep learning and generative models to real-world challenges 
 
 ## 🧠 Expertise
 
-- GANs, Transformers, Causal Learning, Sequence Modeling
+- GANs, Transformers, and Sequence Modeling
 
 ## 🔬 Applications
 
-- Malware behavior modeling, biometric authentication, African language processing
-
+- Malware behavior modeling and biometric authentication
 ## 📄 Portfolio
 
 - [gweldit.github.io](https://gweldit.github.io)
@@ -57,7 +56,7 @@ I design and apply deep learning and generative models to real-world challenges 
 
 - 🔭 Working on generative models (GANs, Transformers) for malware behavior generation and polymorphic malware detection
 
-- 🌱 Learning advanced sequence modeling and causal reward optimization for GANs
+- 🌱 Learning advanced sequence modeling and reward optimization for GANs
 
 ---
 
